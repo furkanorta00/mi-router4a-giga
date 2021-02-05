@@ -6,12 +6,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="imgur.com/a/kdgLAZe">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://raw.githubusercontent.com/furkanorta00/mi-router4a-giga/main/Stock/xiaomi-mi-router-4a.png">
+    <img src="images/logo.png" alt="RouterLogo" width="80" height="80">
   </a>
 
   <h3 align="center">Mi Router 4A Giga Flash Stock Firmware</h3>
