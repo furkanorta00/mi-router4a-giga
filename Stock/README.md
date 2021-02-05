@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/furkanorta00/mi-router4a-giga">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="imgur.com/a/kdgLAZe" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Mi Router 4A Giga Flash Stock Firmware</h3>
