@@ -5,16 +5,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://raw.githubusercontent.com/furkanorta00/mi-router4a-giga/main/Stock/xiaomi-mi-router-4a.png">
-    <img src="images/logo.png" alt="RouterLogo" width="80" height="80">
-  </a>
+![Alt text](https://raw.githubusercontent.com/furkanorta00/mi-router4a-giga/main/Stock/xiaomi-mi-router-4a.png?raw=true "Mi Router 4A Giga Version")
 
   <h3 align="center">Mi Router 4A Giga Flash Stock Firmware</h3>
-
   <p align="center">
     Follow the steps to fix your bricked router or to use stock firmware again if you are currenty on custom firmware.
     <br />
